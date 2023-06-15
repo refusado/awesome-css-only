@@ -1,71 +1,79 @@
-[Bonsai.css](https://github.com/bonsaicss/bonsai.css) - A Utility Complete CSS Framework for less than 45kb (8kB Gzipped).
+# Awesome CSS Only
+An awesome & curated list of beautiful projects made with pure CSS!
 
-[Purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS. 
+---
 
-[Balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS.
+#### A
 
-[Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations. 
+- [A-single-div](https://github.com/lynnandtonic/a-single-div) - :art: CSS drawings with only one HTML element.
+- [All-animation](https://github.com/all-animation/all-animation) - A set of nice and crazy css animations made with the purpose to bring life and interactions to your project. 
+- [Animate.css](https://github.com/animate-css/animate.css) - :popcorn: A cross-browser library of CSS animations. As easy to use as an easy thing.
 
-[Devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets.
+#### B
 
-[Imagehover.css](https://github.com/ciar4n/imagehover.css) - Pure CSS Image Hover Effect Library.
+- [Balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS.
+- [Bonsai.css](https://github.com/bonsaicss/bonsai.css) - A Utility Complete CSS Framework for less than 45kb (8kB Gzipped).
 
-[logos-in-pure-css](https://github.com/bchanx/logos-in-pure-css) - Company logos created in pure CSS.
+#### C
 
-[Instagram.css](https://github.com/picturepan2/instagram.css) - Complete set of Instagram filters in pure CSS.
+- [CSS-Checkbox-Library](https://github.com/hunzaboy/CSS-Checkbox-Library) - A huge library of Pure CSS Checkboxes for every taste.
+- [CSS-file-icons](https://github.com/colorswall/CSS-file-icons) - Pure CSS icons for popular file extensions.
+- [CSS-Minesweeper](https://github.com/imsun/CSS-Minesweeper) - An ugly Minesweeper in pure HTML & CSS without JS.
+- [Css-modal](https://github.com/drublic/css-modal) - A modal built with pure CSS, enhanced with JavaScript.
+- [CSS3-Slider](https://github.com/Aladinbensassi/CSS3-Slider) - Pure CSS3 Slider with multiple animation options.
+- [Cssicon](https://github.com/wentin/cssicon) - Icon set made with pure css code, no dependencies, "grab and go" icons.
+- [Csslider](https://github.com/drygiel/csslider) - Pure CSS slider.
+- [Csspin](https://github.com/webkul/csspin) - CSS Spinners and Loaders - Modular, Customizable and Single HTML Element Code for Pure CSS Loader and Spinner.
+- [Cssplot](https://github.com/asciimoo/cssplot) - Pure CSS charts.
 
-[Css-modal](https://github.com/drublic/css-modal) - A modal built with pure CSS, enhanced with JavaScript.
+#### D
 
-[Csslider](https://github.com/drygiel/csslider) - Pure CSS slider.
+- [Devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets.
+- [Driveway](https://github.com/jh3y/driveway) - Pure CSS masonry layouts.
 
-[Purecss-lace](https://github.com/cyanharlow/purecss-lace) - HTML/CSS drawing inspired by Flemish baroque oil portraits. Hand-coded entirely in HTML & CSS.
+#### F
 
-[Cssplot](https://github.com/asciimoo/cssplot) - Pure CSS charts.
+- [Fileicon.css](https://github.com/picturepan2/fileicon.css) - The customizable pure CSS file icons.
 
-[Cssicon](https://github.com/wentin/cssicon) - Icon set made with pure css code, no dependencies, "grab and go" icons.
+#### G
 
-[Driveway](https://github.com/jh3y/driveway) - Pure CSS masonry layouts.
+- [Gameboy-css](https://github.com/baumannzone/gameboy-css) :space_invader: Pure CSS GameBoy - Includes animations and the original sound :loud_sound:
 
-[Progress.css](https://github.com/refusado/progress.css) - Create circular and horizontal progress bars with pure css adding just one attribute in your HTML tags :paintbrush:.
+#### H
 
-[Pure-drawe](https://github.com/mac81/pure-drawer) - Pure CSS transition effects for off-canvas views.
+- [Hits-the-mole](https://github.com/luin/Hits-the-mole) - The Hits-the-mole game implemented in pure CSS.
 
-[Purecss-zigario](https://github.com/cyanharlow/purecss-zigario) - HTML/CSS drawing in the style of mid-century advertisement design. Hand-coded entirely in HTML & CSS.
+#### I
 
-[CSS3-Slider](https://github.com/Aladinbensassi/CSS3-Slider) - Pure CSS3 Slider with multiple animation options.
+- [Ihover](https://github.com/gudh/ihover) - iHover is a collection of hover effects using pure CSS, inspired by codrops article, powered by Sass.
+- [Imagehover.css](https://github.com/ciar4n/imagehover.css) - Pure CSS Image Hover Effect Library.
+- [Instagram.css](https://github.com/picturepan2/instagram.css) - Complete set of Instagram filters in pure CSS.
 
-[Fileicon.css](https://github.com/picturepan2/fileicon.css) - The customizable pure CSS file icons.
+#### L
 
-[purecss-pink](https://github.com/cyanharlow/purecss-pink) - HTML/CSS drawing of gel studio lighting. Hand-coded entirely in HTML & CSS.
+- [Load-awesome](https://github.com/danielcardoso/load-awesome) - An awesome collection of — Pure CSS — Loaders and Spinners.
+- [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations. 
+- [Logos-in-pure-css](https://github.com/bchanx/logos-in-pure-css) - Company logos created in pure CSS.
 
-[Pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
+#### P
 
-[Ihover](https://github.com/gudh/ihover) - iHover is a collection of hover effects using pure CSS, inspired by codrops article, powered by Sass.
+- [Pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
+- [Progress.css](https://github.com/refusado/progress.css) - Create circular and horizontal progress bars with pure css adding just one attribute in your HTML tags :paintbrush:.
+- [Pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
+- [Pure-CSS3-Animated-Border](https://github.com/code-fx/Pure-CSS3-Animated-Border) - Pure CSS3 animated border for all html element.
+- [Pure-drawe](https://github.com/mac81/pure-drawer) - Pure CSS transition effects for off-canvas views.
+- [Purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
+- [Purecss-gaze](https://github.com/cyanharlow/purecss-gaze) - HTML/CSS drawing in style of italian renaissance painting. Hand-coded entirely in HTML & CSS.
+- [Purecss-lace](https://github.com/cyanharlow/purecss-lace) - HTML/CSS drawing inspired by Flemish baroque oil portraits. Hand-coded entirely in HTML & CSS.
+- [Purecss-pink](https://github.com/cyanharlow/purecss-pink) - HTML/CSS drawing of gel studio lighting. Hand-coded entirely in HTML & CSS.
+- [Purecss-zigario](https://github.com/cyanharlow/purecss-zigario) - HTML/CSS drawing in the style of mid-century advertisement design. Hand-coded entirely in HTML & CSS.
 
-[Animate.css](https://github.com/animate-css/animate.css) - popcorn A cross-browser library of CSS animations. As easy to use as an easy thing.
+#### S
 
-[A-single-div](https://github.com/lynnandtonic/a-single-div) - :art: CSS drawings with only one HTML element.
+- [Scrollzz](https://github.com/refusado/scrollzz) - A complete puzzle developed exclusively in HTML & CSS :jigsaw:.
+- [Simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS.
+- [Star-Wars-Lightsaber](https://github.com/scotch-io/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes) - Pure CSS3 Star Wars Lightsaber Checkboxes.
 
-[CSS-Minesweeper](https://github.com/imsun/CSS-Minesweeper) - An ugly Minesweeper in pure HTML & CSS without JS.
+#### T
 
-[Simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS.
-
-[Csspin](https://github.com/webkul/csspin) - CSS Spinners and Loaders - Modular, Customizable and Single HTML Element Code for Pure CSS Loader and Spinner.
-
-[Pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
-
-[CSS-Checkbox-Library](https://github.com/hunzaboy/CSS-Checkbox-Library) - A huge library of Pure CSS Checkboxes for every taste.
-
-[Text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators.
-
-[Scrollzz](https://github.com/refusado/scrollzz) - A complete puzzle developed exclusively in HTML & CSS :jigsaw:.
-
-[Load-awesome](https://github.com/danielcardoso/load-awesome) - An awesome collection of — Pure CSS — Loaders and Spinners.
-
-[Pure-CSS3-Animated-Border](https://github.com/code-fx/Pure-CSS3-Animated-Border) - Pure CSS3 animated border for all html element.
-
-[Star-Wars-Lightsaber](https://github.com/scotch-io/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes) - Pure CSS3 Star Wars Lightsaber Checkboxes.
-
-[CSS-file-icons](https://github.com/colorswall/CSS-file-icons) - Pure CSS icons for popular file extensions.
-
-[Purecss-gaze](https://github.com/cyanharlow/purecss-gaze) - HTML/CSS drawing in style of italian renaissance painting. Hand-coded entirely in HTML & CSS.
+- [Text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators.
