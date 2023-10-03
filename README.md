@@ -18,6 +18,7 @@ An awesome & curated list of beautiful projects made with pure CSS!
 
 #### C
 
+- [42CSSTober](https://github.com/mewmewdevart/42CSSTober) - 42CSSTober, a CSS illustration for each day in October, because creating only web pages is insufficient. 
 - [CSS-Checkbox-Library](https://github.com/hunzaboy/CSS-Checkbox-Library) - A huge library of Pure CSS Checkboxes for every taste.
 - [CSS-file-icons](https://github.com/colorswall/CSS-file-icons) - Pure CSS icons for popular file extensions.
 - [CSS-Minesweeper](https://github.com/imsun/CSS-Minesweeper) - An ugly Minesweeper in pure HTML & CSS without JS.
